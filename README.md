@@ -24,7 +24,6 @@ This project analyzes **10,000 customer records** to identify the key drivers of
 | Tool                        | Purpose                                |
 | --------------------------- | -------------------------------------- |
 | SQL (MySQL)                 | Data exploration & churn analysis      |
-| Jupyter Notebook            | Analysis environment                   |
 | Power BI Desktop            | Dashboard & visualization              |
 | Claude (Anthropic)          | Analysis guidance & documentation      |
 
